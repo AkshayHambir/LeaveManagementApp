@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cLyzy6n0Ryj2fMl4Y6BOs9aBNFY5LaufC4XZ/9dK1tq53LuLUeA2csU8GhOPmrz+Is3sZ1X0B7Fz8GvYaQFEtQ==",
+  "dgSpecHash": "CCJ7gaCGoqJZtxkBo2rc57dsDxxJxiCBEjiLdno9FmM68TtqIALO/GQUfULWG7H2Swy31nOo+7IgPxAjNKL2MA==",
   "success": true,
   "projectFilePath": "D:\\Learning-2024-Akshay\\C#--- Asp.net core and entity framework-- udemy course\\LeaveManagement\\LeaveManagement\\LeaveManagement.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
